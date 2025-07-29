@@ -8,6 +8,8 @@
 // @match       https://online.anyflip.com/*
 // @grant       GM_xmlhttpRequest
 // @require     https://unpkg.com/jspdf@2.5.1/dist/jspdf.umd.min.js
+// @downloadURL https://github.com/dev-g0d/UniPDF/raw/refs/heads/main/UniPDFDL.user.js
+// @updateURL https://github.com/dev-g0d/UniPDF/raw/refs/heads/main/UniPDFDL.user.js
 // ==/UserScript==
 
 (function() {
